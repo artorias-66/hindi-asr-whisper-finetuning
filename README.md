@@ -2,10 +2,6 @@
 
 This repository contains an end-to-end Hindi ASR assignment submission covering preprocessing, baseline evaluation, fine-tuning, error analysis, targeted post-processing fixes, text cleanup, spelling-quality triage, and lattice-based evaluation.
 
-## Repository
-
-GitHub: https://github.com/artorias-66/hindi-asr-whisper-finetuning
-
 ## What Is Included
 
 - End-to-end pipeline scripts for Q1-Q4
