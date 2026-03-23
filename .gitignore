@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large data/model artifacts
+data/real_run_full_v2/processed/
+models/
+
+# Optional runtime outputs
+results/eval_*/
+results/error_analysis_*/
+results/q2/raw_asr_pretrained.jsonl
+
+

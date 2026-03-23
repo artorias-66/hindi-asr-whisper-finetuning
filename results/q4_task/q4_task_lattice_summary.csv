@@ -1,0 +1,7 @@
+model,samples,standard_wer,lattice_wer,absolute_delta,agreement_threshold
+Model H,46,0.02445,0.01956,-0.00489,3
+Model i,46,0.003667,0.003667,0.0,3
+Model k,46,0.06357,0.056235,-0.007335,3
+Model l,46,0.055012,0.050122,-0.00489,3
+Model m,46,0.123472,0.113692,-0.00978,3
+Model n,46,0.077017,0.067237,-0.00978,3

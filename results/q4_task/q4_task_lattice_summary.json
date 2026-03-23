@@ -1,0 +1,50 @@
+[
+  {
+    "model": "Model H",
+    "samples": 46,
+    "standard_wer": 0.02445,
+    "lattice_wer": 0.01956,
+    "absolute_delta": -0.00489,
+    "agreement_threshold": 3
+  },
+  {
+    "model": "Model i",
+    "samples": 46,
+    "standard_wer": 0.003667,
+    "lattice_wer": 0.003667,
+    "absolute_delta": 0.0,
+    "agreement_threshold": 3
+  },
+  {
+    "model": "Model k",
+    "samples": 46,
+    "standard_wer": 0.06357,
+    "lattice_wer": 0.056235,
+    "absolute_delta": -0.007335,
+    "agreement_threshold": 3
+  },
+  {
+    "model": "Model l",
+    "samples": 46,
+    "standard_wer": 0.055012,
+    "lattice_wer": 0.050122,
+    "absolute_delta": -0.00489,
+    "agreement_threshold": 3
+  },
+  {
+    "model": "Model m",
+    "samples": 46,
+    "standard_wer": 0.123472,
+    "lattice_wer": 0.113692,
+    "absolute_delta": -0.00978,
+    "agreement_threshold": 3
+  },
+  {
+    "model": "Model n",
+    "samples": 46,
+    "standard_wer": 0.077017,
+    "lattice_wer": 0.067237,
+    "absolute_delta": -0.00978,
+    "agreement_threshold": 3
+  }
+]

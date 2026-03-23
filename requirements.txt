@@ -1,0 +1,9 @@
+pandas>=2.1.0
+requests>=2.31.0
+tqdm>=4.66.0
+datasets>=2.18.0
+transformers>=4.40.0
+torchaudio>=2.2.0
+imageio-ffmpeg>=0.5.1
+torch>=2.2.0
+soundfile>=0.12.1

@@ -1,0 +1,65 @@
+{
+  "total_raw_samples": 104,
+  "after_merging": 2985,
+  "final_samples": 2390,
+  "removed_percent": 19.93,
+  "skipped_duration": 1607,
+  "skipped_low_content": 314,
+  "skipped_clip_mismatch": 0,
+  "total_skipped": 1921,
+  "total_hours_before_filtering": 12.3378,
+  "total_hours_after_filtering": 4.5529,
+  "total_hours": 4.5529,
+  "avg_duration": 6.8579,
+  "avg_text_length_chars": 59.19,
+  "skipped_samples": 1921,
+  "hf_dataset_saved": true,
+  "hf_dataset_error": null,
+  "top_10_words": [
+    {
+      "word": "है",
+      "count": 1547
+    },
+    {
+      "word": "जी",
+      "count": 1086
+    },
+    {
+      "word": "तो",
+      "count": 950
+    },
+    {
+      "word": "हां",
+      "count": 633
+    },
+    {
+      "word": "में",
+      "count": 538
+    },
+    {
+      "word": "नहीं",
+      "count": 488
+    },
+    {
+      "word": "हैं",
+      "count": 473
+    },
+    {
+      "word": "भी",
+      "count": 421
+    },
+    {
+      "word": "के",
+      "count": 382
+    },
+    {
+      "word": "आप",
+      "count": 379
+    }
+  ],
+  "duration_min_sec": 1.02,
+  "duration_max_sec": 19.98,
+  "duration_mean_sec": 6.8579,
+  "duration_median_sec": 5.43,
+  "duration_p90_sec": 14.1
+}

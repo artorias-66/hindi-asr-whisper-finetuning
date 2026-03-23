@@ -1,0 +1,10 @@
+{
+  "total_unique_words": 177421,
+  "correct_spelling_count": 170556,
+  "incorrect_spelling_count": 6865,
+  "low_confidence_count": 172382,
+  "low_conf_reviewed": 50,
+  "low_conf_review_right": 41,
+  "low_conf_review_wrong": 9,
+  "notes": "Classified using external word list file."
+}

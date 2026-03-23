@@ -1,0 +1,6 @@
+{
+  "samples": 2390,
+  "with_number_changes": 102,
+  "with_english_hits": 10,
+  "output": "project\\results\\q2\\q2_cleaned_outputs.jsonl"
+}
