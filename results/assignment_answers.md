@@ -4,6 +4,7 @@
 - Name: (Fill before submission)
 - Role: AI Researcher Intern - Speech & Audio
 - Project: Josh Talks ASR Assignment
+- Repository: https://github.com/artorias-66/hindi-asr-whisper-finetuning
 - Last updated: 2026-03-23 (Q1-Q4 complete with provided external files)
 
 ## Executive Summary
